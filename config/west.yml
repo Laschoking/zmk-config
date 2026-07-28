@@ -14,7 +14,6 @@ manifest:
       import: app/west.yml
     - name: totem
       remote: bildermankawasaki
-      url: https://github.com/BildermanKawasaki/zmk-keyboard-TOTEM
       revision: main
       path: modules/zmk-keyboard-TOTEM
   self:
